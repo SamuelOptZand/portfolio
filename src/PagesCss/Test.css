@@ -1,0 +1,6 @@
+.stores{
+    filter: blur(3px) hue-rotate(-90deg) saturate(90%);
+    max-width: 30%;
+    max-height: 30%;
+    display: flex;
+}

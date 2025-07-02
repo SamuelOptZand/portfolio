@@ -1,0 +1,7 @@
+.AboutTitle{
+    font-family: Lucida Console;
+    text-align: center;
+    font-size: 50px;
+    backdrop-filter: hue-rotate(-10deg);
+    color: #4e668c;
+}
