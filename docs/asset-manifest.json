@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13bfadb7.css",
+    "main.js": "/static/js/main.5867721c.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/BossShowcase.gif": "/static/media/BossShowcase.a07d299775d57645242c.gif",
+    "static/media/Home.png": "/static/media/Home.d7354ed091b72b2fbe4c.png",
+    "static/media/LateNightStores.png": "/static/media/LateNightStores.227dd7c18554871f4bec.png",
+    "static/media/VisualSheetBossMovement.png": "/static/media/VisualSheetBossMovement.5626500ec5e065a6a9b9.png",
+    "static/media/Lovelt__.ttf": "/static/media/Lovelt__.c1c6a95112e4df41832f.ttf",
+    "index.html": "/index.html",
+    "main.13bfadb7.css.map": "/static/css/main.13bfadb7.css.map",
+    "main.5867721c.js.map": "/static/js/main.5867721c.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13bfadb7.css",
+    "static/js/main.5867721c.js"
+  ]
+}
