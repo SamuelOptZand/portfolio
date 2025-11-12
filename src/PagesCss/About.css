@@ -2,6 +2,11 @@
     font-family: Lucida Console;
     text-align: center;
     font-size: 50px;
-    backdrop-filter: hue-rotate(-10deg);
-    color: #4e668c;
+    color: #c82759;
+}
+.AboutSection{
+    display: block;
+    background-color: #222222;
+    margin-left: 2vw;
+    margin-right: 1vw;
 }

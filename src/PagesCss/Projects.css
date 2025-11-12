@@ -1,4 +1,4 @@
-.BossmovementImg {
+.BossMovementImg {
     max-width: 50%;
     max-height: 30%;
 }
@@ -6,4 +6,23 @@
 .bossShowcaseGif {
     max-width: 50%;
     max-height: 30%;
+}
+.UEBoss{
+    display: block;
+    background-color: #222222;
+    margin-left: 2vw;
+
+    padding-bottom: 4%;
+    padding-right: 1%;
+    padding-left: 1%;
+    height: 40vh;
+    width: 50%;
+    color: white;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+.TitleUE{
+    text-align: center;
 }

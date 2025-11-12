@@ -4,7 +4,7 @@ function About() {
     return (
             <main>
                 <h1 className="AboutTitle">About Me</h1>
-                <section>
+                <section className="AboutSection">
                     <p>My name is Samuel Op 't Zand. I was born March 1 2007 and live in Alkmaar, The Netherlands</p>
                     <p>My hobbies consist of: playing the drums, gaming, music and coding</p>
 
